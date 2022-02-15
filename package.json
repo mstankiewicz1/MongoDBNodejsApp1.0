@@ -1,0 +1,23 @@
+{
+  "name": "mongo-z-samurajem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstankiewicz1/MongoDBNodejsApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstankiewicz1/MongoDBNodejsApp/issues"
+  },
+  "homepage": "https://github.com/mstankiewicz1/MongoDBNodejsApp#readme",
+  "dependencies": {
+    "mongodb": "^4.3.1",
+    "node": "^17.4.0"
+  }
+}
